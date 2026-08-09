@@ -19,7 +19,7 @@ on:
         type: choice
         options:
           - openwrt:25.12.5
-          - openwrt:24.10.7
+          - openwrt:24.10.8
           - immortalwrt:25.12.1
           - immortalwrt:24.10.6
       openwrt_board:
@@ -51,6 +51,7 @@ on:
           - aio-3399c-ai
           - bdkj-bd-one
           - bdy-g18-pro
+          - bdy-g98
           - beikeyun
           - boca-tcn100
           - boca-tcn200
@@ -88,6 +89,7 @@ on:
           - h88k-v3
           - h96-max-m2
           - hk1-rbox-k8s
+          - houzzkit-f1
           - hs530r
           - ht2
           - hugsun-x99
@@ -249,6 +251,7 @@ on:
           - wocyber-a3
           - wxy-oect
           - wxy-oect-mod
+          - x88pro13
           - x88pro20
           - x98h
           - xiaobao
